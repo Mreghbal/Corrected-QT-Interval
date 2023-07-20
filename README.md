@@ -58,9 +58,6 @@ In this example, the measured QT interval is 400 milliseconds, and the RR interv
 
 Contributions to this repository are welcome. If you have suggestions, improvements, bug fixes, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
